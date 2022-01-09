@@ -35,4 +35,3 @@ My profile overview:
  ![visitas](https://visitor-badge.laobi.icu/badge?page_id=LucasTaborda99)
 
   ##
-<!--![Snake animation](https://github.com/LucasTaborda99/LucasTaborda99/blob/output/github-contribution-grid-snake.svg)-->
